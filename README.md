@@ -1,4 +1,4 @@
-#SpecialProgressBar
+#SpecialProgressBar(一种进度条)
 >A Special Progress Bar for Android
 
 >创意来自[**Dribbble**](https://dribbble.com)
